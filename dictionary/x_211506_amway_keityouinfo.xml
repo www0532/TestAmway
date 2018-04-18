@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="KeityouInfo" max_length="40" name="x_211506_amway_keityouinfo" type="collection">
+        <element label="distCheck" max_length="40" name="distcheck" type="boolean"/>
+        <element label="distCheck1" max_length="40" name="distcheck1" type="string"/>
+        <element label="distCheck2" max_length="40" name="distcheck2" type="boolean"/>
+        <element label="distContents" max_length="40" name="distcontents" type="string"/>
+        <element label="distid" max_length="40" name="distid" type="string"/>
+        <element label="distPrePin" max_length="40" name="distprepin" type="string"/>
+        <element label="distTel" max_length="40" name="disttel" type="string"/>
+        <element label="distUpDia" max_length="40" name="distupdia" type="string"/>
+        <element label="inputday" max_length="40" name="inputday" type="due_date"/>
+        <element label="iraisha" max_length="40" name="iraisha" type="string"/>
+        <element label="keijiCrystalclockRadio" max_length="40" name="keijicrystalclockradio" type="string"/>
+        <element choice="1" label="Keityoukubun" max_length="40" name="keityoukubun" type="choice">
+            <choice/>
+        </element>
+        <element label="remarks" max_length="40" name="remarks" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="-- 新しい選択肢 --" value="-- 新しい選択肢 --"/>
+            </choice>
+        </element>
+    </element>
+</database>

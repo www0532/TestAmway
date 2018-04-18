@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_211506_amway.keityouinfo_user" name="x_211506_amway.keityouinfo_user">33e714654f21130017f330318110c734</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 05:34:38</sys_created_on>
+        <sys_id>b3e714654f21130017f330318110c736</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>33e714654f21130017f330318110c734</sys_name>
+        <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b3e714654f21130017f330318110c736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 05:34:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
