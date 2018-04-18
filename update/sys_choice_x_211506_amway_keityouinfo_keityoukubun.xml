@@ -1,97 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_211506_amway_keityouinfo" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="keityoukubun" table="x_211506_amway_keityouinfo" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>status</element>
+            <element>keityoukubun</element>
             <hint/>
             <inactive>false</inactive>
-            <label>00:作成中</label>
+            <label>死亡</label>
             <language>jp</language>
             <name>x_211506_amway_keityouinfo</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-18 06:21:45</sys_created_on>
+            <sys_created_on>2018-04-18 06:32:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c2b228ad4f21130017f330318110c76d</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>5bc4eced4f21130017f330318110c777</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-18 06:36:55</sys_updated_on>
-            <value>00</value>
+            <sys_updated_on>2018-04-18 06:33:26</sys_updated_on>
+            <value>0</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>status</element>
+            <element>keityoukubun</element>
             <hint/>
             <inactive>false</inactive>
-            <label>10:改修中</label>
+            <label>結婚</label>
             <language>jp</language>
             <name>x_211506_amway_keityouinfo</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-18 06:37:57</sys_created_on>
+            <sys_created_on>2018-04-18 06:33:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a464e4ed4f21130017f330318110c71f</sys_id>
+            <sys_id>c93424ed4f21130017f330318110c7df</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-18 06:39:05</sys_updated_on>
-            <value>10</value>
+            <sys_updated_on>2018-04-18 06:33:57</sys_updated_on>
+            <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>status</element>
+            <element>keityoukubun</element>
             <hint/>
             <inactive>false</inactive>
-            <label>20:承認待ち</label>
+            <label>出産</label>
             <language>jp</language>
             <name>x_211506_amway_keityouinfo</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-18 06:38:22</sys_created_on>
+            <sys_created_on>2018-04-18 06:34:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a3666c214f61130017f330318110c74d</sys_id>
+            <sys_id>5d7568ed4f21130017f330318110c7bd</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-18 06:39:02</sys_updated_on>
-            <value>20</value>
+            <sys_updated_on>2018-04-18 06:34:33</sys_updated_on>
+            <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>status</element>
+            <element>keityoukubun</element>
             <hint/>
             <inactive>false</inactive>
-            <label>30:作業完了</label>
+            <label>入院</label>
             <language>jp</language>
             <name>x_211506_amway_keityouinfo</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-18 06:38:48</sys_created_on>
+            <sys_created_on>2018-04-18 06:34:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6186eced4f21130017f330318110c77c</sys_id>
+            <sys_id>0595e8ed4f21130017f330318110c7ac</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-18 06:38:58</sys_updated_on>
-            <value>30</value>
+            <sys_updated_on>2018-04-18 06:34:56</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keityoukubun</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>人災</label>
+            <language>jp</language>
+            <name>x_211506_amway_keityouinfo</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 06:35:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8b5e4ed4f21130017f330318110c740</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 06:35:14</sys_updated_on>
+            <value>4</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>status</element>
+            <element>keityoukubun</element>
             <name>x_211506_amway_keityouinfo</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-18 06:21:45</sys_created_on>
-            <sys_id>8eb228ad4f21130017f330318110c76e</sys_id>
+            <sys_created_on>2018-04-18 06:32:14</sys_created_on>
+            <sys_id>e315a8ed4f21130017f330318110c759</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>status</sys_name>
+            <sys_name>keityoukubun</sys_name>
             <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
             <sys_policy/>
             <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
-            <sys_update_name>sys_choice_x_211506_amway_keityouinfo_status</sys_update_name>
+            <sys_update_name>sys_choice_x_211506_amway_keityouinfo_keityoukubun</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-18 06:21:45</sys_updated_on>
+            <sys_updated_on>2018-04-18 06:32:14</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
