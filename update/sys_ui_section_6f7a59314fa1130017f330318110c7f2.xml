@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="【対象DIST情報】" section_id="6f7a59314fa1130017f330318110c7f2" sys_domain="global" table="x_211506_amway_keichou" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distid</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>bb7a99314fa1130017f330318110c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distcheck1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>3f7a99314fa1130017f330318110c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distcheck2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>bf7a99314fa1130017f330318110c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distcontents</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>337a99314fa1130017f330318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>b37a99314fa1130017f330318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distprepin</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>377a99314fa1130017f330318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distupdia</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>b77a99314fa1130017f330318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disttel</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_id>3b7a99314fa1130017f330318110c74a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="【対象DIST情報】" display_value="【対象DIST情報】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">6f7a59314fa1130017f330318110c7f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>【対象DIST情報】</caption>
+            <header>false</header>
+            <name>x_211506_amway_keichou</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-19 05:03:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f7a59314fa1130017f330318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>【対象DIST情報】</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
+            <sys_update_name>sys_ui_section_6f7a59314fa1130017f330318110c7f2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-19 05:03:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

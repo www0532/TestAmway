@@ -4,14 +4,14 @@
         <element label="対象者１" max_length="40" name="distcheck1" type="boolean"/>
         <element label="対象者２" max_length="40" name="distcheck2" type="boolean"/>
         <element label="distContents" max_length="40" name="distcontents" type="string"/>
-        <element label="＜ID＞" max_length="40" name="distid" type="string"/>
+        <element label="＜ID＞" mandatory="true" max_length="40" name="distid" type="string"/>
         <element label="Pre-PIN" max_length="40" name="distprepin" type="string"/>
         <element label="TEL" max_length="40" name="disttel" type="string"/>
         <element label="UP-DIA" max_length="40" name="distupdia" type="string"/>
-        <element label="【入力日】" max_length="40" name="inputday" type="glide_date"/>
+        <element label="【入力日】" mandatory="true" max_length="40" name="inputday" type="glide_date"/>
         <element label="【依頼者】" mandatory="true" max_length="40" name="iraisha" reference="x_211506_amway_dist" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="クリスタルクロック手配" max_length="40" name="keijicrystalclockradio" type="boolean"/>
-        <element choice="1" default="結婚" label="【慶弔区分】" max_length="40" name="keityoukubun" type="choice">
+        <element choice="1" default="1" label="【慶弔区分】" mandatory="true" max_length="40" name="keityoukubun" type="choice">
             <choice>
                 <element label="人災" value="4"/>
                 <element label="入院" value="3"/>
@@ -20,8 +20,8 @@
                 <element label="結婚" value="1"/>
             </choice>
         </element>
-        <element label="備考" max_length="40" name="remarks" type="string"/>
-        <element choice="1" default="00：作成中" label="status" max_length="40" name="status" type="choice">
+        <element label="備考" max_length="1000" name="remarks" type="string"/>
+        <element choice="1" default="00" label="status" mandatory="true" max_length="40" name="status" type="choice">
             <choice>
                 <element label="00：作成中" value="00"/>
                 <element label="30：作業完了" value="30"/>
