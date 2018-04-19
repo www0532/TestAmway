@@ -9,7 +9,7 @@
         <element label="TEL" max_length="40" name="disttel" type="string"/>
         <element label="UP-DIA" max_length="40" name="distupdia" type="string"/>
         <element label="【入力日】" mandatory="true" max_length="40" name="inputday" type="glide_date"/>
-        <element label="【依頼者】" mandatory="true" max_length="40" name="iraisha" reference="x_211506_amway_dist" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="【依頼者】" mandatory="true" max_length="40" name="iraisha" reference="sys_user" type="reference"/>
         <element label="クリスタルクロック手配" max_length="40" name="keijicrystalclockradio" type="boolean"/>
         <element choice="1" default="1" label="【慶弔区分】" mandatory="true" max_length="40" name="keityoukubun" type="choice">
             <choice>
