@@ -5,13 +5,13 @@
             <element>status</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
-            <sys_id>b37a99314fa1130017f330318110c737</sys_id>
+            <sys_created_on>2018-04-19 15:35:57</sys_created_on>
+            <sys_id>7d2befb14fe5130017f330318110c75e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="慶弔依頼＿フォーム" display_value="慶弔依頼＿フォーム" name="x_211506_amway_keichou" sys_domain="global" view="Default view">0ade78614fa1130017f330318110c710</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_updated_on>2018-04-19 15:35:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -37,7 +37,7 @@
             <sys_updated_on>2018-04-19 05:03:55</sys_updated_on>
             <sys_user/>
             <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

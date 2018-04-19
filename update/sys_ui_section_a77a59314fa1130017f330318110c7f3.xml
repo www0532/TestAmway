@@ -5,13 +5,13 @@
             <element>keijicrystalclockradio</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-19 05:03:57</sys_created_on>
-            <sys_id>b77a99314fa1130017f330318110c74f</sys_id>
+            <sys_created_on>2018-04-19 14:38:56</sys_created_on>
+            <sys_id>e21e5f794fa5130017f330318110c782</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="【慶事】" display_value="【慶事】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">a77a59314fa1130017f330318110c7f3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-19 05:03:57</sys_updated_on>
+            <sys_updated_on>2018-04-19 14:38:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -37,7 +37,7 @@
             <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

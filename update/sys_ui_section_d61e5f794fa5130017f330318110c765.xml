@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="New Section" section_id="ef7a59314fa1130017f330318110c7f3" sys_domain="global" table="x_211506_amway_keichou" version="3" view="">
+    <sys_ui_section caption="【備考欄】" section_id="d61e5f794fa5130017f330318110c765" sys_domain="global" table="x_211506_amway_keichou" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>remarks</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-19 05:03:57</sys_created_on>
-            <sys_id>b37a99314fa1130017f330318110c767</sys_id>
+            <sys_created_on>2018-04-19 14:38:56</sys_created_on>
+            <sys_id>e21e5f794fa5130017f330318110c786</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_211506_amway_keichou" sys_domain="global" view="Default view">ef7a59314fa1130017f330318110c7f3</sys_ui_section>
+            <sys_ui_section caption="【備考欄】" display_value="【備考欄】" name="x_211506_amway_keichou" sys_domain="global" view="Default view">d61e5f794fa5130017f330318110c765</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-19 05:03:57</sys_updated_on>
+            <sys_updated_on>2018-04-19 14:38:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>New Section</caption>
+            <caption>【備考欄】</caption>
             <header>false</header>
             <name>x_211506_amway_keichou</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-19 05:03:56</sys_created_on>
+            <sys_created_on>2018-04-19 14:38:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ef7a59314fa1130017f330318110c7f3</sys_id>
+            <sys_id>d61e5f794fa5130017f330318110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>New Section</sys_name>
+            <sys_name>【備考欄】</sys_name>
             <sys_overrides/>
             <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
             <sys_policy/>
             <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
-            <sys_update_name>sys_ui_section_ef7a59314fa1130017f330318110c7f3</sys_update_name>
+            <sys_update_name>sys_ui_section_d61e5f794fa5130017f330318110c765</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-19 05:03:56</sys_updated_on>
+            <sys_updated_on>2018-04-19 14:38:55</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

@@ -116,7 +116,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-19 04:32:22</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">840d3162b92013006517ce7df7ee468d</view>
+            <view display_value="参照リスト" name="sys_ref_list">840d3162b92013006517ce7df7ee468d</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

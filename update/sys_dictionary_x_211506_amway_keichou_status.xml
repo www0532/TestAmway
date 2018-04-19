@@ -33,7 +33,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="選択肢">choice</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_211506_amway_keichou</name>

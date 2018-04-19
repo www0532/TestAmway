@@ -6,7 +6,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <category display_value="未分類" name="未分類">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_211506_amway_keichou</collection>
         <condition/>
         <content_type>text/html</content_type>
@@ -95,7 +95,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>beda61f94fa1130017f330318110c7ae</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>KeiChouNewMail</sys_name>
         <sys_overrides/>
         <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
@@ -103,7 +103,7 @@
         <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
         <sys_update_name>sysevent_email_action_beda61f94fa1130017f330318110c7ae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-19 07:24:17</sys_updated_on>
+        <sys_updated_on>2018-04-19 14:45:22</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
