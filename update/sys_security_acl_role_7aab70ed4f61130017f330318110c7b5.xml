@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 08:10:46</sys_created_on>
+        <sys_id>7aab70ed4f61130017f330318110c7b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_211506_amway_keichou.x_211506_amway.keichou_user</sys_name>
+        <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
+        <sys_security_acl display_value="x_211506_amway_keichou">32ab70ed4f61130017f330318110c7b3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7aab70ed4f61130017f330318110c7b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 08:10:46</sys_updated_on>
+        <sys_user_role display_value="x_211506_amway.keichou_user" name="x_211506_amway.keichou_user">b2abb0ad4f61130017f330318110c795</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

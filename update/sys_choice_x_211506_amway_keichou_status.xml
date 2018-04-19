@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_211506_amway_keichou" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>00：作成中</label>
+            <language>en</language>
+            <name>x_211506_amway_keichou</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 08:31:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9450c1614fa1130017f330318110c772</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 08:31:27</sys_updated_on>
+            <value>00</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>30：作業完了</label>
+            <language>en</language>
+            <name>x_211506_amway_keichou</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 08:33:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40b0c1e14fa1130017f330318110c723</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 08:33:13</sys_updated_on>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_211506_amway_keichou</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-18 08:31:21</sys_created_on>
+            <sys_id>2c60cda14fa1130017f330318110c73a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
+            <sys_update_name>sys_choice_x_211506_amway_keichou_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-18 08:31:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
