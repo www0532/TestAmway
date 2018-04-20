@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="521b0a0a4f2d130017f330318110c78b" sys_domain="global" table="x_211506_amway_clock" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-20 03:14:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>561b0a0a4f2d130017f330318110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_211506_amway_clock" name="x_211506_amway_clock" sys_domain="global" view="10c1ce424f2d130017f330318110c7f0">521b0a0a4f2d130017f330318110c78b</sys_ui_form>
+            <sys_ui_section caption="クリスタルクロック（結婚記念品）作成依頼" display_value="クリスタルクロック（結婚記念品）作成依頼" name="x_211506_amway_clock" sys_domain="global" view="10c1ce424f2d130017f330318110c7f0">10c1ce424f2d130017f330318110c7f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-20 03:14:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_211506_amway_clock</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-20 03:14:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>521b0a0a4f2d130017f330318110c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_211506_amway_clock</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_521b0a0a4f2d130017f330318110c78b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-20 03:14:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Update" name="Update">10c1ce424f2d130017f330318110c7f0</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

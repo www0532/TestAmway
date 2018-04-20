@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="kinendate" table="x_211506_amway_clock">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="hassono" table="x_211506_amway_clock">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>記念日：</column_label>
+        <column_label>荷物番号：</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,12 +28,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>kinendate</element>
+        <element>hassono</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_211506_amway_clock</name>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-20 00:47:11</sys_created_on>
-        <sys_id>6cf829824fe9130017f330318110c704</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>記念日：</sys_name>
+        <sys_created_on>2018-04-20 03:01:19</sys_created_on>
+        <sys_id>02a7ca424f2d130017f330318110c761</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>荷物番号：</sys_name>
         <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
         <sys_policy/>
         <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
-        <sys_update_name>sys_dictionary_x_211506_amway_clock_kinendate</sys_update_name>
+        <sys_update_name>sys_dictionary_x_211506_amway_clock_hassono</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-20 03:42:14</sys_updated_on>
+        <sys_updated_on>2018-04-20 03:05:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
