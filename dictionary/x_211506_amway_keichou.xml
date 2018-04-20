@@ -21,13 +21,13 @@
             </choice>
         </element>
         <element label="備考" max_length="1000" name="remarks" type="string"/>
-        <element choice="1" default="00" label="status" mandatory="true" max_length="40" name="status" type="choice">
+        <element choice="1" default="00" label="Status" mandatory="true" max_length="40" name="status" type="choice">
             <choice>
                 <element label="00：作成中" value="00"/>
+                <element label="10：依頼中" value="10"/>
                 <element label="30：作業完了" value="30"/>
+                <element label="50：作業中止" value="50"/>
             </choice>
         </element>
-        <element label="New オーディオ" max_length="40" name="u_audio_1" type="audio"/>
-        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_2" type="url"/>
     </element>
 </database>

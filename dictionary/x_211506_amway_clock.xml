@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Clock" max_length="40" name="x_211506_amway_clock" type="collection">
+        <element choice="1" default="1" label="送付先：" max_length="40" name="clockaddress" read_only="true" type="choice">
+            <choice>
+                <element label="その他" value="3"/>
+                <element label="登録住所" value="1"/>
+                <element label="送付先住所" value="2"/>
+            </choice>
+        </element>
+        <element label="備考：" max_length="1000" name="clockbiko" type="string"/>
+        <element label="clockEndDate" max_length="40" name="clockenddate" type="glide_date"/>
+        <element choice="1" default="1" label="字体：" max_length="40" name="clockfont" read_only="true" type="choice">
+            <choice>
+                <element label="ブロック体" value="2"/>
+                <element label="飾り文字" value="1"/>
+            </choice>
+        </element>
+        <element label="clockIraiDate" max_length="40" name="clockiraidate" type="glide_date"/>
+        <element label="クロックサンプル" max_length="100" name="clocksample" type="icon"/>
+        <element default="（例：hanako ＆ Taro）（英数字半角）（苗字を除く）" label="刻印のスペル：" max_length="40" name="clockspell" read_only="true" type="string"/>
+        <element label="Dist：" max_length="32" name="distname" read_only="true" reference="sys_user" reference_qual="phone=(033) 520-9865^EQ" reference_qual_condition="phone=(033) 520-9865^EQ" type="reference"/>
+        <element label="＜依頼者＞" max_length="32" name="iraisha" read_only="true" reference_qual="phone=(033) 520-9865^EQ" reference_qual_condition="phone=(033) 520-9865^EQ" type="string"/>
+        <element label="記念日：" max_length="40" name="kinendate" read_only="true" type="glide_date"/>
+        <element choice="1" default="00" label="＊" max_length="4000" name="status" read_only="true" type="choice">
+            <choice>
+                <element label="00：作成中" value="00"/>
+                <element label="10：依頼中" value="10"/>
+                <element label="30：作業完了" value="30"/>
+                <element label="50：作業中止" value="50"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="iraisha"/>
+        </index>
+        <index name="index2">
+            <element name="distname"/>
+        </index>
+    </element>
+</database>

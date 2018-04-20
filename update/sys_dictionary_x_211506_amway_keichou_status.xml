@@ -15,7 +15,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>status</column_label>
+        <column_label>Status</column_label>
         <comments/>
         <create_roles/>
         <default_value>00</default_value>
@@ -33,7 +33,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="選択肢">choice</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_211506_amway_keichou</name>
@@ -55,14 +55,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 08:10:45</sys_created_on>
         <sys_id>167bb8ad4f61130017f330318110c733</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>status</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Status</sys_name>
         <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
         <sys_policy/>
         <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
         <sys_update_name>sys_dictionary_x_211506_amway_keichou_status</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-19 05:08:54</sys_updated_on>
+        <sys_updated_on>2018-04-20 00:15:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
