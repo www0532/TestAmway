@@ -9,14 +9,14 @@
             </choice>
         </element>
         <element label="備考：" max_length="1000" name="clockbiko" type="string"/>
-        <element label="完了日：" max_length="40" name="clockenddate" read_only="true" type="glide_date"/>
+        <element label="完了日：" max_length="40" name="clockenddate" type="glide_date"/>
         <element choice="1" default="1" label="字体：" mandatory="true" max_length="40" name="clockfont" type="choice">
             <choice>
                 <element label="ブロック体" value="2"/>
                 <element label="飾り文字" value="1"/>
             </choice>
         </element>
-        <element label="依頼日：" max_length="40" name="clockiraidate" read_only="true" type="glide_date"/>
+        <element label="依頼日：" max_length="40" name="clockiraidate" type="glide_date"/>
         <element label="クロックサンプル" max_length="100" name="clocksample" type="icon"/>
         <element default="（例：hanako ＆ Taro）（英数字半角）（苗字を除く）" label="刻印のスペル：" mandatory="true" max_length="40" name="clockspell" type="string"/>
         <element label="Dist：" mandatory="true" max_length="32" name="distname" reference="sys_user" reference_qual="phone=(033) 520-9865^EQ" reference_qual_condition="phone=(033) 520-9865^EQ" type="reference"/>

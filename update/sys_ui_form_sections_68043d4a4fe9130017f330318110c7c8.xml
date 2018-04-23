@@ -29,20 +29,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-20 04:47:49</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>69606e064f6d130017f330318110c729</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_211506_amway_clock" name="x_211506_amway_clock" sys_domain="global" view="Default view">68043d4a4fe9130017f330318110c7c8</sys_ui_form>
-            <sys_ui_section caption="更新情報" display_value="更新情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">65602e064f6d130017f330318110c78f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_211506_amway_clock</name>
             <roles/>

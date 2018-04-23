@@ -5,13 +5,13 @@
             <element>hassodate</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-20 04:47:49</sys_created_on>
-            <sys_id>65606e064f6d130017f330318110c731</sys_id>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>dda6b98f4f61130017f330318110c732</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>hassoshipper</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-20 04:47:49</sys_created_on>
-            <sys_id>e5606e064f6d130017f330318110c731</sys_id>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>51a6b98f4f61130017f330318110c733</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>hassono</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-20 04:47:49</sys_created_on>
-            <sys_id>69606e064f6d130017f330318110c731</sys_id>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>d1a6b98f4f61130017f330318110c733</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,15 +47,71 @@
             <element>hassodrstanto</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-04-20 04:47:49</sys_created_on>
-            <sys_id>e9606e064f6d130017f330318110c731</sys_id>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>55a6b98f4f61130017f330318110c733</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-04-20 04:47:49</sys_updated_on>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>d5a6b98f4f61130017f330318110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>clockiraidate</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>59a6b98f4f61130017f330318110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>clockenddate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>d9a6b98f4f61130017f330318110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 04:19:19</sys_created_on>
+            <sys_id>5da6b98f4f61130017f330318110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="発送情報" display_value="発送情報" name="x_211506_amway_clock" sys_domain="global" view="Default view">ad602e064f6d130017f330318110c78e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 04:19:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>発送情報</caption>
